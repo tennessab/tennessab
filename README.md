@@ -17,6 +17,6 @@ I'm Tennessa, a student at Brigham Young University-Idaho interested in Virtual 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([LinkedIn](https://www.linkedin.com/in/tennessa-buttars/)) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/tennessa-buttars/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
